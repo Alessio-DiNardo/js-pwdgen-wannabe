@@ -9,7 +9,7 @@ const userName = prompt("Insert your name");
 
 console.log("userName");
 
-const userAge = prompt("Insert your userName");
+const userSurname = prompt("Insert your userName");
 
 console.log("userName");
 
